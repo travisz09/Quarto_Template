@@ -1,6 +1,5 @@
-## A Quarto Manuscript
+## A Quarto Manuscript Template
 
-This is a Quarto manuscript repo for the ATUR aquifer recharge project. The public facing webpage can be found here:
-TODO: insert link to public page.
+This is a template repo for generating a manuscript from Quarto that accompanies the tutorial at: [Quarto Manuscripts: VS Code](https://quarto.org/docs/manuscripts/authoring/vscode.html)
 
 
