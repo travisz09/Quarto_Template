@@ -1,10 +1,10 @@
 ---
-title: La Palma Earthquakes
+title: La Palma Earthquake Mechanisms
 author:
-  - name: Steve Purves
-    orcid: 0000-0002-0760-5497
+  - name: Travis Zalesky
+    orcid: 0009-0006-0181-3099
     corresponding: true
-    email: steve@curvenote.com
+    email: travisz@arizona.edu
     roles:
       - Investigation
       - Project administration
