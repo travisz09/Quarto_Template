@@ -11,13 +11,7 @@ author:
       - Software
       - Visualization
     affiliations:
-      - Curvenote
-  - name: Rowan Cockett
-    orcid: 0000-0002-7859-8394
-    corresponding: false
-    roles: []
-    affiliations:
-      - Curvenote
+      - University of Arizona
 keywords:
   - La Palma
   - Earthquakes
